@@ -1,0 +1,5 @@
+How to use the downloaded files
+
+1) Run "npm install" in the extracted folder
+2) go to the axios-orders.js in the src and set your firebase url
+3) Run "npm start" to view the project.

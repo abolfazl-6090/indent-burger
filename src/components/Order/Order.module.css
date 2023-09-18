@@ -1,0 +1,15 @@
+
+.Order{
+    width: 98%;
+    border: 1px solid #444040;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.mySpan{
+   border-radius: 4px;
+    background-color: #63eb149c;
+    margin: 4px;
+    padding: 1px;
+}
